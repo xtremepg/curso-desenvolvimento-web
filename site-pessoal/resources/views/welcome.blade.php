@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Olá Mundo!
                 </div>
+                <h2>Bem vindos a nossa primeira aula de Laravel.</h2>
+                <br>
+                <br>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
